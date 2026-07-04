@@ -1,0 +1,10 @@
+# largest-3-same-digit-number-in-string
+
+## Difficulty: 
+Easy
+
+## Language:
+cpp
+
+## Notes:
+- Add any notes or explanations about your solution here.

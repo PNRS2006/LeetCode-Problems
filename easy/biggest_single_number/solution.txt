@@ -1,0 +1,7 @@
+# Write your MySQL query statement below
+with fun as
+(
+    select num , count(*) as cnt from MyNumbers
+    group by num
+)
+select max(num) as num from fun  where cnt = 1;

@@ -1,0 +1,10 @@
+# special-positions-in-a-binary-matrix
+
+## Difficulty: 
+Easy
+
+## Language:
+cpp
+
+## Notes:
+- Add any notes or explanations about your solution here.

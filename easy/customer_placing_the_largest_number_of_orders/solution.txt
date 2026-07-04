@@ -1,0 +1,8 @@
+# Write your MySQL query statement below
+with fun as
+(
+    select order_number as o_n, customer_number as c_n , count(*) as cnt
+    from orders
+    group by customer_number
+)
+select c_n as customer_number from fun where cnt = (select max(cnt) from fun);

@@ -1,0 +1,8 @@
+/* Write your PL/SQL query statement below */
+select id,
+case
+    WHEN p_id IS NULL THEN 'Root'
+    WHEN id IN (SELECT p_id from tree) THEN 'Inner'
+    else 'Leaf'
+End as type
+from tree;

@@ -1,0 +1,4 @@
+/* Write your PL/SQL query statement below */
+select product_id,year as first_year, quantity,price
+from sales
+where (year,product_id) IN (select min(year),product_id as Min_Year from sales group by product_id);
