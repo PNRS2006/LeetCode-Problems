@@ -1,7 +1,7 @@
 name: LeetCode Sync
 
 on:
-  workflow_dispatch:  # Allows manual trigger
+  workflow_dispatch:
 
 jobs:
   sync:
@@ -12,6 +12,6 @@ jobs:
       - name: Sync LeetCode Solutions
         uses: joshcai/leetcode-sync-action@main
         with:
-          leetcode-username: 'UniqUe_Coderr__2006'
+          leetcode-username: 'UniqUe_Coderr_2006'
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: 'Sync LeetCode solution'
+          commit-message: 'feat: sync leetcode solution'
