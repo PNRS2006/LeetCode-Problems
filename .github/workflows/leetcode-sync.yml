@@ -12,6 +12,6 @@ jobs:
       - name: Sync LeetCode Solutions
         uses: joshcai/leetcode-sync-action@main
         with:
-          leetcode-username: 'YourLeetCodeUsername'
+          leetcode-username: 'UniqUe_Coderr__2006'
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: 'Sync LeetCode solution'
