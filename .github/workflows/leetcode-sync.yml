@@ -4,10 +4,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  sync:
+  leetcode-sync:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Sync LeetCode Solutions
         uses: joshcai/leetcode-sync-action@main
