@@ -1,5 +1,8 @@
 class Solution {
 public:
+
+    //DFS ::
+
     void dfs(int n , vector<vector<int>>& c ,  vector<int>& vis){
         vis[n]=1;
         for(int i=0;i<c.size();i++){
@@ -10,6 +13,9 @@ public:
         int n = c.size();
         vector<int>vis(n,0);
         int cnt=0;
+
+        //BFS::
+        
         // for(int i=0;i<n;i++){
         //     if(!vis[i]){
         //         cnt++;
