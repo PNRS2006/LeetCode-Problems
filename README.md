@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1706-where-will-the-ball-fall](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1706-where-will-the-ball-fall) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [1706-where-will-the-ball-fall](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1706-where-will-the-ball-fall) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sorting
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
