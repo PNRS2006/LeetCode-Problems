@@ -78,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3271-hash-divided-string](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3271-hash-divided-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
 | ------- |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [3271-hash-divided-string](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3271-hash-divided-string) |
 | [3894-traffic-signal-color](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
