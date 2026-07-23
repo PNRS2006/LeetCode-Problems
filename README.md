@@ -101,18 +101,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
