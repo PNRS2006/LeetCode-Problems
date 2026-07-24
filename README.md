@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0463-island-perimeter](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -14,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0463-island-perimeter](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0463-island-perimeter](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [1288-remove-covered-intervals](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1706-where-will-the-ball-fall](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1706-where-will-the-ball-fall) |
@@ -48,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0463-island-perimeter](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [1706-where-will-the-ball-fall](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1706-where-will-the-ball-fall) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
