@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1288-remove-covered-intervals](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1706-where-will-the-ball-fall](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1706-where-will-the-ball-fall) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 <!---LeetCode Topics End-->
