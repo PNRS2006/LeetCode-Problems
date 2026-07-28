@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2315-count-asterisks](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2315-count-asterisks) |
 | [3271-hash-divided-string](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3271-hash-divided-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3894-traffic-signal-color](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
