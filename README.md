@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2315-count-asterisks](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2315-count-asterisks) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3271-hash-divided-string](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3271-hash-divided-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3894-traffic-signal-color](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting Sort
 |  |
 | ------- |
