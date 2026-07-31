@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-where-will-the-ball-fall](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1706-where-will-the-ball-fall) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sorting
 |  |
