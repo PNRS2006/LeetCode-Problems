@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0877-stone-game](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0492-construct-the-rectangle](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1103-distribute-candies-to-people](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1103-distribute-candies-to-people) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -205,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
