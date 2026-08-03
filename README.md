@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3270-find-the-key-of-the-numbers](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3270-find-the-key-of-the-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
