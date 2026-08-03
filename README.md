@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0419-battleships-in-a-board) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
