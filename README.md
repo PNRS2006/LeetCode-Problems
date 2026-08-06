@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3271-hash-divided-string](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3271-hash-divided-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 ## String
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-hash-divided-string](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3271-hash-divided-string) |
 | [3280-convert-date-to-binary](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3280-convert-date-to-binary) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3894-traffic-signal-color](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
