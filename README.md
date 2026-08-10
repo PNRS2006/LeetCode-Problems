@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0867-transpose-matrix](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0867-transpose-matrix](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1706-where-will-the-ball-fall) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1103-distribute-candies-to-people](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1706-where-will-the-ball-fall) |
