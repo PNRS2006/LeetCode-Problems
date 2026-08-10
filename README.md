@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0130-surrounded-regions) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0200-number-of-islands) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [1103-distribute-candies-to-people](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
