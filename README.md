@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
