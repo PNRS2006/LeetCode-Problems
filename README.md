@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3238-find-the-number-of-winning-players](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3238-find-the-number-of-winning-players) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
