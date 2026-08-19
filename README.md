@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0338-counting-bits](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0338-counting-bits) |
 ## Trie
 |  |
 | ------- |
