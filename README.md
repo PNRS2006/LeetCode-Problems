@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0190-reverse-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
