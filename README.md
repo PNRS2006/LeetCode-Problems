@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0492-construct-the-rectangle](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [1004-max-consecutive-ones-iii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -299,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
