@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0492-construct-the-rectangle](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0866-prime-palindrome](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1103-distribute-candies-to-people](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1103-distribute-candies-to-people) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0866-prime-palindrome) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0866-prime-palindrome) |
 | [2523-closest-prime-numbers-in-range](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
