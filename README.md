@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0260-single-number-iii) |
 | [0419-battleships-in-a-board](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0463-island-perimeter) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0492-construct-the-rectangle](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0866-prime-palindrome) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2523-closest-prime-numbers-in-range) |
@@ -321,14 +325,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0866-prime-palindrome) |
 | [2523-closest-prime-numbers-in-range](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
