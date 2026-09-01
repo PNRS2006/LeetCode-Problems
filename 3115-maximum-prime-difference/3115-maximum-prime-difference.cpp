@@ -23,6 +23,6 @@ public:
                 break;
             }
         }
-        return abs(i-j);
+        return j-i;
     }
 };
