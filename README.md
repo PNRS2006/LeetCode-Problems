@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2363-merge-similar-items](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2363-merge-similar-items) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-prime-in-diagonal](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2363-merge-similar-items](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2363-merge-similar-items) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [2363-merge-similar-items](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2363-merge-similar-items) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -344,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2523-closest-prime-numbers-in-range) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
