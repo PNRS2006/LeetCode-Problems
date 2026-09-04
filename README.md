@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-prime-palindrome](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1103-distribute-candies-to-people) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2315-count-asterisks](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2315-count-asterisks) |
@@ -356,4 +358,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2363-merge-similar-items) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
