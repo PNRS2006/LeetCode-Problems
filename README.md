@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2363-merge-similar-items](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2363-merge-similar-items) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
