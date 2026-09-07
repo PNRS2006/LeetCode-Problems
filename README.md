@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1720-decode-xored-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1720-decode-xored-array) |
 ## Trie
 |  |
