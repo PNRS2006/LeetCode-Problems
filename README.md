@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2363-merge-similar-items](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2363-merge-similar-items) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0866-prime-palindrome) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3115-maximum-prime-difference) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2197-replace-non-coprime-numbers-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -378,4 +382,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2197-replace-non-coprime-numbers-in-array) |
+## Least Common Multiple
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2197-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
