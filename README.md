@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0944-delete-columns-to-make-sorted](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
