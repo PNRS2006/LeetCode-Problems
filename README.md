@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0492-construct-the-rectangle](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -400,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0100-same-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
