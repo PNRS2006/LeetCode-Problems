@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3271-hash-divided-string](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3271-hash-divided-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3271-hash-divided-string](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3271-hash-divided-string) |
 | [3280-convert-date-to-binary](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3280-convert-date-to-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3894-traffic-signal-color](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
