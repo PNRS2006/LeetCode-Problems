@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2363-merge-similar-items](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2363-merge-similar-items) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2363-merge-similar-items](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2363-merge-similar-items) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2363-merge-similar-items](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2363-merge-similar-items) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2248-intersection-of-multiple-arrays](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
