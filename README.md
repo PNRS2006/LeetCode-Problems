@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1706-where-will-the-ball-fall](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1706-where-will-the-ball-fall) |
 | [1720-decode-xored-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1720-decode-xored-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PNRS2006/LeetCode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/PNRS2006/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [1004-max-consecutive-ones-iii](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PNRS2006/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PNRS2006/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
